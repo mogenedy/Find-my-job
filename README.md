@@ -1,10 +1,4 @@
-markdown
 
-Collapse
-
-Wrap
-
-Copy
 # 🚀 Find My Job
 
 A modern **Laravel-based Job Reservation System** designed to help users search, browse, and apply for jobs quickly and efficiently online.
@@ -40,26 +34,14 @@ Follow these steps to set up the project locally:
    git clone https://github.com/mogenedy/Find-my-job.git
    cd Find-my-job
 Install PHP Dependencies
-bash
+   ```bash
 
-Collapse
-
-Wrap
-
-Run
-
-Copy
 composer install
 Install Node Modules (optional, for frontend assets)
 bash
 
-Collapse
+   ```bash
 
-Wrap
-
-Run
-
-Copy
 npm install && npm run dev
 Set Up Environment File
 Copy the example environment file and configure it:
